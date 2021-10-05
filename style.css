@@ -22,3 +22,8 @@ h1 {
   background: #c5469f;
   font-size: 13px;
 }
+
+footer {
+  margin-top: 10px;
+  color: gray;
+}
